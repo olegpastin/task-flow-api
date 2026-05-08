@@ -23,7 +23,7 @@ REST API for managing projects, tasks, team members and comments.
 ## Installation
 
 ```bash
-git clone <this_rep>
+git clone [<this_rep>](https://github.com/olegpastin/task-flow-api)
 cd taskflow-api
 python -m venv .venv
 source .venv/bin/activate
